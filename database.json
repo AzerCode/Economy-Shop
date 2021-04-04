@@ -1,0 +1,9 @@
+{
+    "Items": 3,
+    "mine": 1000,
+    "mine description": "A mine command for you to mine coins.",
+    "hunting-rifle": 5000,
+    "hunting-rifle description": "This command unlocks the hunt command for you to hunt animals.",
+    "cheese": 1000,
+    "cheese description": "This item lets you bet your luck. Winning will gain you lots of coins, and losing will cost you."
+}
